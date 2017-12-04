@@ -1,0 +1,100 @@
+Java
+C
+C++
+Python
+C#
+JavaScript
+Visual Basic .NET
+PHP
+Delphi/Object Pascal
+Assembly language	
+R
+MATLAB
+Ruby
+Go
+Perl
+Scratch
+Visual Basic
+PL/SQL
+Objective-C
+Swift
+SAS
+Dart
+Transact-SQL
+Crystal
+COBOL
+D
+Alice
+Ada
+Groovy
+Lua
+Rust
+Fortran
+Hack
+VBScript
+Julia
+Logo
+Awk
+Lisp
+Scala
+ABAP
+Prolog
+Clojure
+Apex
+VHDL
+LabVIEW
+(Visual) FoxPro
+RPG (OS/400)
+Kotlin
+Erlang
+Verilog
+4th Dimension/4D
+ABC
+ActionScript
+APL
+Arc
+AutoLISP
+Bash
+bc
+Bourne shell
+C shell
+CFML
+CL (OS/400)
+Clipper
+Common Lisp
+Elixir
+Euphoria
+F#
+Forth
+Haskell
+Icon
+IDL
+Inform
+Io
+J
+Korn shell
+Ladder Logic
+Maple
+ML
+MOO
+MQL4
+MUMPS
+NATURAL
+NXT-G
+OCaml
+OpenCL
+OpenEdge ABL
+Oz
+PL/I
+PostScript
+PowerShell
+Q
+REXX
+Ring
+Scheme
+Smalltalk
+SPARK
+SPSS
+Standard ML
+Stata
+Tcl
