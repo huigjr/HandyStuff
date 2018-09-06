@@ -73,6 +73,30 @@ foreach($_ENV as $key => $value) $vars[] = array('ENV',$key,$value);
       <th>Value</th>
     </tr>
     <tr>
+      <td>document.documentElement.clientWidth (viewport width)</td>
+      <td><script>document.write(document.documentElement.clientWidth)</script></td>
+    </tr>
+    <tr>
+      <td>document.documentElement.clientHeight (viewport height)</td>
+      <td><script>document.write(document.documentElement.clientHeight)</script></td>
+    </tr>
+    <tr>
+      <td>window.screen.width (screen width)</td>
+      <td><script>document.write(window.screen.width)</script></td>
+    </tr>
+    <tr>
+      <td>window.screen.height (screen height)</td>
+      <td><script>document.write(window.screen.height)</script></td>
+    </tr>
+    <tr>
+      <td>document.documentElement.scrollHeight</td>
+      <td><script>document.write(document.documentElement.scrollHeight)</script></td>
+    </tr>
+    <tr>
+      <td>window.devicePixelRatio</td>
+      <td><script>document.write(window.devicePixelRatio)</script></td>
+    </tr>
+    <tr>
       <td>navigator.oscpu</td>
       <td><script>document.write(navigator.oscpu)</script></td>
     </tr>
@@ -96,6 +120,10 @@ foreach($_ENV as $key => $value) $vars[] = array('ENV',$key,$value);
       <td>navigator.platform</td>
       <td><script>document.write(navigator.platform)</script></td>
     </tr>
+    <tr>
+      <td>BatteryManager.level</td>
+      <td><script>document.write(BatteryManager.level)</script></td>
+    </tr>
   </table>
 </div>
 
@@ -118,7 +146,7 @@ foreach($_ENV as $key => $value) $vars[] = array('ENV',$key,$value);
   <h2>Javascript Test Object</h2>
 </div>
 
-<footer>Environment Diagnostics - Huig - 2017</footer>
+<footer>Environment Diagnostics - Huig - 2018</footer>
 
 <script>
 function objToJson(myObj){
